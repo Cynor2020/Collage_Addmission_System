@@ -1,0 +1,16 @@
+From: Cynor
+Sent: 11 June 2024 01:20
+To: principal@nitnashik.com
+Subject: NIT Collage system created Successfully!!!
+Collage Admission System - An admission management system is a digital solution to manage student
+enrollments in colleges, universities, and training institutions.
+NIT's Collage Admission System :
+Admin / Principal Login:
+Login Link : https://nashikcollage.000webhostapp.com/index.php
+Mobile Number : 9923585211
+Password : 992358521
+(NOTE : Admin Dashboard Open Only Desktop/Windows.)
+Teacher/Staff Admission Form Link : https://nashikcollage.000webhostapp.com/stud_master.php
+(NOTE : This Link Open All Devices Mobile ,Tab , Laptop/Desktop ,etc.
+This link Not Share Any Third Party Person Only Share Collage Teachers.)
+Admin/Principal Add all Teachers in Dashboard Panel And Share All Teachers Form Link.
